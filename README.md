@@ -18,6 +18,7 @@ Leveraging these works, we focus on the **complex t-distribution** and **autoreg
 
 This project underscores the need for robust statistical approaches in real-world signal processing applications where ideal data conditions are rarely met.
 
-## Project Report
+## Project Report & Code
 
 The full project report is currently available in French (`Rapport_Projet_Cassiopee.pdf`). An English version of the report will be made available and updated in this repository soon.
+An associated Jupyter Notebook containing the implementation and analysis is also uploaded to this repository.
