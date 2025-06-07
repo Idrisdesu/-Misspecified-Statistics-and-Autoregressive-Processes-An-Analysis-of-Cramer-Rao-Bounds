@@ -5,7 +5,7 @@ This repository contains the code and resources for a research project investiga
 Our work is fundamentally based on the methodologies and insights presented in the following key research papers:
 
 * "Matched, mismatched, and robust scatter matrix estimation and hypothesis testing in complex t-distributed data" by *Stefano Fortunati, Fulvio Gini, and Maria S. Greco (EURASIP Journal on Advances in Signal Processing, 2016)*.
-* "Performance Bounds for Parameter Estimation under Misspecified Models" by *Stefano Fortunati, Fulvio Gini, Maria S. Greco, and Christ D. Richmond*.
+* "Performance Bounds for Parameter Estimation under Misspecified Models" by *Stefano Fortunati, Fulvio Gini, Maria S. Greco, and Christ D. Richmond (Published by IEEE)*.
 
 Leveraging these works, we focus on the **complex t-distribution** and **autoregressive (AR(1)) processes** to demonstrate the limitations of classical estimation tools like the standard **Cramer-Rao Bound (CRB)**. We show that the CRB can significantly underestimate the true variance of estimators when the underlying data model is incorrectly assumed.
 
