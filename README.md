@@ -20,5 +20,5 @@ This project underscores the need for robust statistical approaches in real-worl
 
 ## Project Report & Code
 
-The full project report is currently available in French (`Rapport_Projet_Cassiopee.pdf`). An English version of the report will be made available and updated in this repository soon.
+The full project report is available(`Cassiopee_Project_Report.pdf`).
 An associated Jupyter Notebook containing the implementation and analysis is also uploaded to this repository.
