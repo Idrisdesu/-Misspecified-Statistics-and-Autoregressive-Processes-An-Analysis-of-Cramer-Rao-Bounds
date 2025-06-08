@@ -1,6 +1,6 @@
 # Misspecified Statistics and Autoregressive Processes: An Analysis of Cramér-Rao Bounds
 
-This research project, supervised by two professors from Télécom SudParis and conducted by three students, contains the code and resources investigating the crucial role of misspecified statistics in signal processing, particularly when model assumptions, such as data Gaussianity, are violated.
+This research project, supervised by two associate professors from Télécom SudParis and conducted by three students, contains the code and resources investigating the crucial role of misspecified statistics in signal processing, particularly when model assumptions, such as data Gaussianity, are violated.
 
 Our work is fundamentally based on the methodologies and insights presented in the following key research papers:
 
@@ -20,5 +20,5 @@ This project underscores the need for robust statistical approaches in real-worl
 
 ## Project Report & Code
 
-The full project report is available(`Cassiopee_Project_Report.pdf`).
-An associated Jupyter Notebook containing the implementation and analysis is also uploaded to this repository.
+The full project report is available (`Cassiopee_Project_Report.pdf`).
+An associated Jupyter Notebook containing the implementation is also uploaded to this repository.
